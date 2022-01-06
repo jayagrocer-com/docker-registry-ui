@@ -13,3 +13,4 @@ defaults:
       path: ""
     values:
       image: /screenshot.png
+theme: jekyll-theme-minimal
